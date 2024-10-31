@@ -23,5 +23,5 @@
 #registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.13.0
 #quay.io/brancz/kube-rbac-proxy:v0.18.1
 #quay.io/brancz/kube-rbac-proxy:v0.18.1
-docker.io/library/elasticsearch:7.9.3
-#alphine:3.6
+#docker.io/library/elasticsearch:7.9.3
+https://hub.docker.com/_/alpine:3.6
