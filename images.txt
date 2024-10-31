@@ -24,4 +24,4 @@
 #quay.io/brancz/kube-rbac-proxy:v0.18.1
 #quay.io/brancz/kube-rbac-proxy:v0.18.1
 docker.io/library/elasticsearch:7.9.3
-alphine:3.6
+#alphine:3.6
